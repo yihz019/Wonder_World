@@ -8,7 +8,6 @@
 Developed a Mini-Game using Java that allows the user to move the avatar with the keys "WASD/wasd" and collect clovers, turn the light off and back on with the key "L/l", create new random worlds by entering random numerical seeds or loading the most recently saved world.
 
 ## Output 
-![wonder-world](https://github.com/yihz019/Wonder-World/assets/93494138/7e2d6134-9063-4c4f-96e7-bae95624589c)
 ![wonder-world](https://github.com/user-attachments/assets/829f44e9-f5ea-4cb7-be9c-baeb0928d98b)
 
 
